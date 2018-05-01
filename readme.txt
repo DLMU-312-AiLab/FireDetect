@@ -1,0 +1,1 @@
+请将 processing.gif 放置与exe同级目录下
